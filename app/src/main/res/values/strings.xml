@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas Mobile - Profile</string>
+    <string name="job_success">Job Success</string>
+    <string name="ui_ux_designer">UI/UX Designer</string>
+    <string name="my_desc">Terkadang menjadi pengajar, pembimbing dan pelatih, disisi lainnya suka berbau seni, mengutak-atik segala tools, membuat UI Adobe XD. Suka kopi untuk teman koding. From zero to Hero</string>
+    <string name="about_me">About Me</string>
+    <string name="contact">Contact</string>
+    <string name="skills">Skills and Portofolio</string>
+    <string name="ratings">Star Ratings</string>
+</resources>
