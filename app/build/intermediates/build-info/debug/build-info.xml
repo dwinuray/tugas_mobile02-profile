@@ -2,61 +2,91 @@
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="22"
-    build-mode="COLD"
+    build-mode="FULL"
     density="xhdpi"
     format="10"
     plugin-version="3.4.1"
-    timestamp="1602707930040"
+    timestamp="1603082928576"
     token="6409408131865078796"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="5515" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="375" />
     <task
         name="verifier"
-        duration="0" />
+        duration="188" />
 
+    <artifact
+        location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
     <artifact
         location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
         type="SPLIT_MAIN" />
+    <artifact
+        location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
 
     <build
         build-mode="FULL"
-        timestamp="1602702503526"
+        timestamp="1603082928576"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
             location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
             location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
             location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
             location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
             location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
@@ -67,53 +97,9 @@
         <artifact
             location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="CLASS_ADDED"
-        timestamp="1602704655539"
-        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="R_CLASS_CHANGE"
-        timestamp="1602707471532"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1602707930040"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="E:\LearnAndOtherTutorial\Mobile Developer - Polinema v\hellowwolrd\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

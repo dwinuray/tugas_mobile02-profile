@@ -981,7 +981,6 @@ id end
 id expand_activities_button
 id expanded_menu
 id experience
-id experiencebtn
 id flip
 id forever
 id gone
@@ -1031,7 +1030,6 @@ id path
 id pathRelative
 id percent
 id personalinfo
-id personalinfobtn
 id position
 id postLayout
 id profile_image
@@ -1042,7 +1040,6 @@ id ratio
 id rectangles
 id reverseSawtooth
 id review
-id reviewbtn
 id right
 id right_icon
 id right_side
